@@ -1,10 +1,10 @@
-# `week-09`
+# `week-13`
 
 This repository contains files for:
 
--   `Commands/` - Stata quick reference
--   `Lab/` - lab-08 directions and replication
--   `ProblemSet/` - PS-05 directions
+-   `ArcGIS/` - ArcGIS quick reference
+-   `Lab/` - lab-13 directions and replication
+-   `ProblemSet/` - PS-08 directions
 -   `Slides/` - lecture slides
 -   `LICENSE.md`
 -   `README.md`
